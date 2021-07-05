@@ -1,1 +1,3 @@
 # Food-ordering-system
+
+Using python basic built-in keywords and user-defined functions, I created this system which will be the exact POC of the real-time systems like Zomato, Swiggy etc. This system has a sign up and login options for the Users. So anyone can create an account and interact with the system. I also designed the system in such a way that the total bill and ordered list of food will be generated in the form of table. Foods are classified as Veg and Non-veg. For Log in and Sign up purpose, I used a file "customer_data.txt" as my database. I haven't complete the system yet. Lot of changes need to be done.
